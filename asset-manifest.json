@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReadMore-in-react/static/css/main.073c9b0a.css",
+    "main.js": "/ReadMore-in-react/static/js/main.58ef3c7a.js",
+    "static/js/787.bed95e07.chunk.js": "/ReadMore-in-react/static/js/787.bed95e07.chunk.js",
+    "index.html": "/ReadMore-in-react/index.html",
+    "main.073c9b0a.css.map": "/ReadMore-in-react/static/css/main.073c9b0a.css.map",
+    "main.58ef3c7a.js.map": "/ReadMore-in-react/static/js/main.58ef3c7a.js.map",
+    "787.bed95e07.chunk.js.map": "/ReadMore-in-react/static/js/787.bed95e07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.58ef3c7a.js"
+  ]
+}
